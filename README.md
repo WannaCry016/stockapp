@@ -1,4 +1,4 @@
-# yoberg
+# StockApp
 
 A new Flutter project.
 
